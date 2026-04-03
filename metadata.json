@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MOTORISTA 7",
+  "description": "Aplicativo completo para gestão financeira e veicular de motoristas de aplicativo (Uber/99). Controle corridas, combustível, manutenções e lucros.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
